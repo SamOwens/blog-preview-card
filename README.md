@@ -4,12 +4,13 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 # Built With
 
-React
-Tailwind
+- Vite
+- React
+- Tailwind
 
 ## Links
 
-- Solution URL: [https://samo-blog-preview-card.netlify.app/](https://samo-blog-preview-card.netlify.app/)
+Solution URL: [https://samo-blog-preview-card.netlify.app/](https://samo-blog-preview-card.netlify.app/)
 
 ## Notes
 
